@@ -15,7 +15,7 @@ body {
   flex-direction: column;
 }
 .container {
-  max-width: 375px;
+  max-width: 360px;
 
   padding: 20px;
   position: relative;
